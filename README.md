@@ -8,7 +8,6 @@
 * **Organization:** Ambibuzz Technologies LLP (Joined: January 2022 – Present | ~4 years, 8 months)
 * **Career Path / Internal Milestones:** Junior Developer / Fresher → Shopify Developer → Frappe / ERPNext Developer → Team Lead (internal team-lead mandate) → Senior Developer
 * **Target Roles:** Senior Software Developer, Technical Lead, Senior Integration Engineer, Shopify Plus Technical Lead
-* **Target Compensation:** ₹30+ LPA
 * **Work Model:** 100% Remote (India-based or global remote organizations)
 * **Core Market Positioning:** **Enterprise Systems & Ecommerce Integration Specialist**. You bridge the gap between enterprise ecommerce platforms (**Shopify Plus B2B/B2C**) and modern ERP/business backends (**Frappe / ERPNext, NetSuite**). Your profile focuses on middleware data pipelines, schema translations, asynchronous queuing, rate-limit resilience, and operational observability rather than frontend-only or theme-only development.
 
